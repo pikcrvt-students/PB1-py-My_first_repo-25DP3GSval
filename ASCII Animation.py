@@ -2,19 +2,21 @@ import time
 import os
 
 frames = [
-    "i",
-    "in",
-    "ini",
-    "init",
-    "initu",
-    "initul",
-    "inituli",
-    "inituliz",
-    "initulizi",
-    "initulizin",
-    "initulizing",
-    "initulizing.",
-    "initulizing..",
+    "|",
+    "i|",
+    "in|",
+    "ini|",
+    "init|",
+    "initu|",
+    "initul|",
+    "inituli|",
+    "inituliz|",
+    "initulizi|",
+    "initulizin|",
+    "initulizing|",
+    "initulizing.|",
+    "initulizing..|",
+    "initulizing...|",
     "initulizing...",
     "initulizing..|",
     "initulizing.|",
@@ -31,31 +33,10 @@ frames = [
     "i|",
     "|",
     "",
-    "L|",
-    "Lo|",
-    "Loa|",
-    "Load|",
-    "Loadi|",
-    "Loadin|",
-    "Loading|",
-    "Loading.|",
-    "Loading..|",
-    "Loading...|",
-    "Loading..|",
-    "Loading.|",
-    "Loading|",
-    "Loadin|",
-    "Loadi|",
-    "Load|",
-    "Loa|",
-    "Lo|",
-    "L|",
-    "|",
-    "",
 ]
 
 while True:
     for frame in frames:
         os.system("cls" if os.name == "nt" else "clear")
         print(frame)
-        time.sleep(0.05)
+        time.sleep(0.08)
