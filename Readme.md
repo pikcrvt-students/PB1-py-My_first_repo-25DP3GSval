@@ -4,13 +4,13 @@
 
 "Akmens, šķēres, papīrītis" ir vienkārša un populāra spēle diviem spēlētājiem. Tā tiek izmantota gan izklaidei, gan kā ātrs veids, kā pieņemt lēmumu.
 
----
+--
 
 ## Spēlētāju skaits
 
 * 2 spēlētāji
 
----
+--
 
 ## Iespējamās izvēles
 
@@ -20,7 +20,7 @@ Katrs spēlētājs vienlaikus izvēlas vienu no trim žestiem:
 * ✂️ **Šķēres**
 * 📄 **Papīrītis**
 
----
+--
 
 ## Noteikumi
 
@@ -30,13 +30,13 @@ Uzvarētājs tiek noteikts pēc šādiem principiem:
 * ✂️ **Šķēres** uzvar 📄 papīrīti (šķēres to sagriež)
 * 📄 **Papīrītis** uzvar akmeni (papīrs to pārklāj)
 
----
+--
 
 ## Neizšķirts
 
 Ja abi spēlētāji izvēlas vienu un to pašu žestu, rezultāts ir neizšķirts, un raunds tiek atkārtots.
 
----
+--
 
 ## Spēles gaita
 
@@ -45,7 +45,7 @@ Ja abi spēlētāji izvēlas vienu un to pašu žestu, rezultāts ir neizšķirt
 3. Nosaka uzvarētāju pēc noteikumiem.
 4. Ja nepieciešams, atkārto vairākus raundus.
 
----
+--
 
 ## Uzvaras nosacījums
 
