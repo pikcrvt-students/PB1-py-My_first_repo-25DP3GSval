@@ -10,3 +10,5 @@ skaitis1 = int(input("Ievadi pirmo skaitli: "))
 skaitis2 = int(input("Ievadi otro skaitli: "))
 
 lielākais = maximum(skaitis1, skaitis2)
+
+print(lielākais)
