@@ -6,4 +6,5 @@ def maximum(x, y):
     else:
         return y
 
-print(maximum(3, 2))
+skaitlis = maximum(2,3)
+print(skaitlis)
