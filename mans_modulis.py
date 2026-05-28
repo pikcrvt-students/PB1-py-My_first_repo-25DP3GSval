@@ -1,0 +1,2 @@
+def sveiciens():
+    print("Sveiki!")
